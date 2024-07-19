@@ -1,0 +1,14 @@
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\bin\Debug\net8.0\AplicativoPrevisaoTempo.exe
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\bin\Debug\net8.0\AplicativoPrevisaoTempo.deps.json
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\bin\Debug\net8.0\AplicativoPrevisaoTempo.runtimeconfig.json
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\bin\Debug\net8.0\AplicativoPrevisaoTempo.dll
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\bin\Debug\net8.0\AplicativoPrevisaoTempo.pdb
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\AplicativoPrevisaoTempo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\AplicativoPrevisaoTempo.AssemblyInfoInputs.cache
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\AplicativoPrevisaoTempo.AssemblyInfo.cs
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\AplicativoPrevisaoTempo.csproj.CoreCompileInputs.cache
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\AplicativoPrevisaoTempo.dll
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\refint\AplicativoPrevisaoTempo.dll
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\AplicativoPrevisaoTempo.pdb
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\AplicativoPrevisaoTempo.genruntimeconfig.cache
+D:\AplicativoPrevisaoTempo\AplicativoPrevisaoTempo\obj\Debug\net8.0\ref\AplicativoPrevisaoTempo.dll
