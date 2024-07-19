@@ -1,0 +1,14 @@
+C:\Users\danie\Downloads\Sockets+Introdução\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe.config
+C:\Users\danie\Downloads\Sockets+Introdução\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe
+C:\Users\danie\Downloads\Sockets+Introdução\SocketCliente\SocketCliente\bin\Debug\SocketCliente.pdb
+C:\Users\danie\Downloads\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.exe
+C:\Users\danie\Downloads\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe.config
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketCliente\SocketCliente\bin\Debug\SocketCliente.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.exe
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketCliente\SocketCliente\obj\Debug\SocketCliente.pdb

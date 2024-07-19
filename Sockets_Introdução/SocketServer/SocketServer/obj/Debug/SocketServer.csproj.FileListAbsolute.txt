@@ -1,0 +1,14 @@
+C:\Users\danie\Downloads\Sockets+Introdução\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\danie\Downloads\Sockets+Introdução\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\danie\Downloads\Sockets+Introdução\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\danie\Downloads\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\danie\Downloads\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\danie\OneDrive\Área de Trabalho\arquivos C#\Sockets+Introdução\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
